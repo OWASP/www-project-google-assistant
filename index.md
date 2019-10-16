@@ -21,3 +21,4 @@ For more videos see the links on the wiki videos page.
   <iframe src="https://ghbtns.com/github-btn.html?user=owasp&repo=www-projectchapter-example&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
   <iframe src="https://ghbtns.com/github-btn.html?user=owasp&repo=www-projectchapter-example&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 </div>
+type: tool
